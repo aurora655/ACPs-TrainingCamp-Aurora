@@ -50,3 +50,8 @@ ACPs（Agent Interconnection Protocol）是一个面向**智能体间互联互�
 
 ```bash
 python main.py
+
+## 🧪 运行测试
+
+```bash
+python test_main.py
